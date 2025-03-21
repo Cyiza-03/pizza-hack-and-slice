@@ -155,7 +155,7 @@ body{
     
 }
 .coffee, .dessert{
-    margin: 20px 5em;
+    margin: 20px 3em;
     background-color:rgb(250, 211, 126);
     border-radius: 10px;
     justify-items: center;
